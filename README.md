@@ -1,6 +1,7 @@
-# anket_firebase
+# Flutter firebase örneği
 
-A new Flutter project.
+Flutter ile yapılmış, Google firebase kullanılarak anket uygulaması örneği. Hot reload özelliği mevcuttur. 
+Görseller ilerleyen zamanlarda eklenecektir.
 
 ## Getting Started
 
